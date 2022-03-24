@@ -1,0 +1,8 @@
+{
+  "name": "leopvp",
+  "description": "A ChatTriggers module that give the stats off the person youre fighting in hypixel duels only.",
+  "author": "lplaat",
+  "entry": "index.js",
+  "version": "1.0.0",
+  "requires": ["requestV2"]
+}
